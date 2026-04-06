@@ -11,7 +11,8 @@ elif (month % 2 == 1 and day == 15) or (month % 2 == 0 and day == 16):
 else:
     print("평일")
 
-2.for 문을 이용해 1~50의 짝수 합을 구하되, 3의 배수는 제외하세요
+2.
+for 문을 이용해 1~50의 짝수 합을 구하되, 3의 배수는 제외하세요
 total = 0
 
 for i in range(1, 51):
